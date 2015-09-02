@@ -28,7 +28,7 @@ module Ethon
 
       # Clean up the easy.
       #
-      # @example Perform the request.
+      # @example Perform clean up.
       #   easy.cleanup
       #
       # @return the result of the free which is nil
