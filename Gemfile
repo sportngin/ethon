@@ -14,6 +14,8 @@ group :development, :test do
     gem "guard-rspec", "~> 0.7"
     gem 'rb-fsevent', '~> 0.9.1'
   end
+  gem "pry"
+  gem "pry-debugger"
 end
 
 group :perf do
